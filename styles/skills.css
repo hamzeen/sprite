@@ -1,0 +1,49 @@
+#home,#bio,#past,#skills, #work, #showcase, #latest-work, #networks, #process, #brand, #thanks, #contact {
+    position: relative;
+ }
+
+#skills{
+    background: #333;
+}
+
+#skills .section-skills{
+    top:2%;
+    padding-top: 4em;
+    padding-bottom: 6em;
+}
+
+
+
+#skills .my-links{
+    font-family: "RalewaySemiBold", sans-serif;
+    background: #d32b3b;
+    color:#fff;
+    padding: 1.1em 2em;
+    font-size: 0.7em;
+    font-weight: 300;
+    margin-top: 1em;
+}
+
+#skills .my-skills-desc{
+    margin-bottom: 3em;
+    font-family: 'RalewayLight', sans-serif;
+    color:#717070;
+    font-size: 0.8em;
+}
+
+#skills h1{
+    color:#1a81bc;
+    margin-bottom: 1.2em;
+}
+
+#skills h4{
+    font-family: 'GothamMedium', sans-serif;
+    font-size: 0.7em;
+    color:#8cc3e3;
+    margin-top: -4.6em;
+}
+
+
+#skills .container{
+    margin-top: 5em;
+}
